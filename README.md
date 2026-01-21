@@ -1,2 +1,2 @@
 # Learning about Version Control
-**Author:** Elaine Tao
+**Author:** Elaine Tao <br>
